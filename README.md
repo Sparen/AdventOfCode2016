@@ -7,6 +7,7 @@ Advent of Code 2016 - http://adventofcode.com
 ```
 Day 1 - [Completed 2016 12 09] Python
 Day 2 - [Completed 2016 12 09] Python
-Day 3 - ???  
+Day 3 - [Completed 2016 12 09] Python
 Day 4 - ???  
+Day 5 - ???
 ```
