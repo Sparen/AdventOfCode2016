@@ -4,7 +4,7 @@
 Advent of Code 2016 - http://adventofcode.com
 
 ## Languages used:
-* Day 1 - ???  
+* Day 1 - [Completed 2016 12 09] Python
 * Day 2 - ???  
 * Day 3 - ???  
 * Day 4 - ???  
